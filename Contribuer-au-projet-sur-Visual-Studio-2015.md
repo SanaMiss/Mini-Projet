@@ -51,3 +51,5 @@ Pour importer les modifications d'une branche dans la vôtre, choisissez l'optio
 ![fusionnerbranche2](sachem/_Contribute/wiki/fusionbranche_etape2.png)
 
 La section "Fusionner à partir de la branche" vous permet de sélectionner la branche qui sera importée dans la seconde, soit la section "Dans la branche actuelle". Dans l'écran précédent, les mises à jour de la branche master seront répliquées dans la branche "maj_Cours". Il ne reste qu'à cliquer sur le bouton "Fusionner".
+
+Auteur: Josée Lainesse
