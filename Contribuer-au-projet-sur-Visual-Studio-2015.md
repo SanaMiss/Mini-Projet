@@ -6,7 +6,7 @@ Pour obtenir une copie du code source de votre projet, vous devez le "cloner". D
 
 ![teamexplorer](sachem/_Contribute/wiki/teamexplorer.png)
 
-Cliquez sur "Cloner", entrez l'url [[git:gitlab#obtenir_l_url_https_utilisée_dans_visual_studio|HTTPS]] du projet, sélectionnez l'endroit où vous souhaitez le sauvegarder sur votre ordinateur et cliquez sur le bouton "Cloner".
+Cliquez sur "Cloner", entrez l'url `https://github.com/dinfcll/sachem.git` du projet, sélectionnez l'endroit où vous souhaitez le sauvearder sur votre ordinateur et cliquez sur le bouton "Cloner".
 
 ![cloner](sachem/_Contribute/wiki/Capture.PNG)
 
