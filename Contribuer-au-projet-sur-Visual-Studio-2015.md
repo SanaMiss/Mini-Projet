@@ -8,7 +8,7 @@ Pour obtenir une copie du code source de votre projet, vous devez le "cloner". D
 
 Cliquez sur "Cloner", entrez l'url `https://github.com/dinfcll/sachem.git` du projet, sélectionnez l'endroit où vous souhaitez le sauvearder sur votre ordinateur et cliquez sur le bouton "Cloner".
 
-![cloner](https://github.com/dinfcll/sachem/blob/sachem/_Contribute/wiki/Capture.PNG)
+![cloner](https://github.com/dinfcll/sachem/blob/master/sachem/_Contribute/wiki/Capture.PNG)
 
 Visual Studio aura besoin de votre identifiant Git ainsi que votre adresse courriel. Fournissez-lui les informations demandées selon votre compte Git (le même que dans Rocket.Chat).
 
