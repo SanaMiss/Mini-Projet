@@ -25,8 +25,11 @@ Les branches permettent de travailler sur une fonctionnalité sans nuire au flux
 Dans Visual Studio, voici les étapes pour créer une nouvelle branche :
   - Dans Team Explorer, choisissez l'option "Branches".
   - Faites apparaître le menu contextuel (clic droit de la souris) sur la branche parent (exemple : master) à partir de laquelle seront effectués vos modifications. Sélectionnez l'option "Nouvelle branche locale de..."
+
 ![nouvellebranche](https://github.com/dinfcll/sachem/blob/master/sachem/_Contribute/wiki/nouvellebranche.png)
+
   - Inscrivez un nom de branche significatif et cliquez sur le bouton "Créer une branche".
+
 ![nouvellebranche_majcours](https://github.com/dinfcll/sachem/blob/master/sachem/_Contribute/wiki/nouvellebranche_majcours.png)
 
 
